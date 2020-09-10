@@ -8,10 +8,13 @@ twine = "*"
 jupyter = "*"
 flake8 = "*"
 autopep8 = "*"
+pytest = "*"
 
 [packages]
 pandas = "*"
 sklearn = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.7"
